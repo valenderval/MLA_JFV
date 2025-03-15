@@ -1,1 +1,1 @@
-# Jacob Vallery - Bellarmine University - Machine Learning - CS-430-ON
+# Jacob Vallery - Bellarmine University - Machine Learning CS-430-ON
